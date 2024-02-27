@@ -11,7 +11,9 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "html-to-text": "^9.0.5",
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "mongodb": "^6.3.0",
+    "openai": "^4.28.0"
   },
   "devDependencies": {
     "@types/html-to-text": "^9.0.4",
