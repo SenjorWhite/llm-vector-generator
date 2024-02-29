@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/mongodb": "^4.0.7",
     "dotenv": "^16.4.5",
     "html-to-text": "^9.0.5",
     "minimist": "^1.2.8",
