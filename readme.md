@@ -93,3 +93,9 @@ Define the Atlas Vector Search index by the following json
 -   ts-node db-handler.ts search "My questions in plain Text"
 
 Then you should get the most similar article ids, titles and questions
+
+
+# Workflow Diagram for These Search Concepts
+
+![download](https://github.com/SenjorWhite/llm-vector-generator/assets/10670263/45255860-e893-43ee-af32-efe9cbfc7f5c)
+
